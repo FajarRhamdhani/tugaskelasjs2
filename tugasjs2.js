@@ -55,7 +55,15 @@
 //     }
 
 
-//     var strArr = strChange.split(" ");
+//     for (let i =0 ; i < strChange.length; i++) {
+//         if(strChange[i] !== " "){
+//             strNew += strChange[i];
+//         }else{
+//             strArr.push(strNew);
+//             strNew = "";
+//         }
+//     }
+//     strArr.push(strNew);
 
 //     for (let j = strArr.length-1; j >=0; j--) {
 //         result += strArr[j] + " ";
