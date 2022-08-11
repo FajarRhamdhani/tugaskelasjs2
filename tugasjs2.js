@@ -54,7 +54,8 @@
 //         strChange += str[i];  
 //     }
 
-
+//     var strNew = "";
+//     var strArr = [];
 //     for (let i =0 ; i < strChange.length; i++) {
 //         if(strChange[i] !== " "){
 //             strNew += strChange[i];
